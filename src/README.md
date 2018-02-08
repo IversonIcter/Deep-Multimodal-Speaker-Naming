@@ -33,6 +33,7 @@ load images and audios, concatate images and five audio features(same person) an
 
 
 # Reference
+```
 @inproceedings{hu2015deep,
 title={{Deep Multimodal Speaker Naming}},
 author={Hu, Yongtao and Ren, Jimmy SJ. and Dai, Jingwen and Yuan, Chang and Xu, Li and Wang, Wenping},
@@ -41,3 +42,4 @@ pages={1107--1110},
 year={2015},
 organization={ACM}
 }
+```
