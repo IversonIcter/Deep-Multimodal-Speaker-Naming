@@ -35,3 +35,16 @@ This is a function that extract MFCC features. The sliding window size is 20ms a
 
 # Reference
 https://bitbucket.org/herohuyongtao/mm15-speaker-naming
+
+If you find this repository is helpful, please cite this paper:
+
+```
+@inproceedings{hu2015deep,
+  title={{Deep Multimodal Speaker Naming}},
+    author={Hu, Yongtao and Ren, Jimmy SJ. and Dai, Jingwen and Yuan, Chang and Xu, Li and Wang, Wenping},
+	  booktitle={Proceedings of the 23rd Annual ACM International Conference on Multimedia},
+	    pages={1107--1110},
+		  year={2015},
+		    organization={ACM}
+			}
+```
