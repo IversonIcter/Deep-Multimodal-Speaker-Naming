@@ -2,6 +2,7 @@
 
 The trainset directory:
 
+```
 Friends.S01E03/
 	-face-images/
 		- chandler/
@@ -23,6 +24,7 @@ Friends.S04E04/
 Friends.S05E05/
 Friends.S07E07/
 Friends.S10E15/
+```
 
 
 ## merge_audio_file_friends:
